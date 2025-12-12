@@ -4,7 +4,7 @@
 
 In the age of rapid information exchange, the *slow* art of exegesis has been somewhat lost. We often find ourselves reacting rather than responding, shouting rather than conversing.
 
-When we're thinking together, we're growing together. That's the central idea of this kind of [[exegesis]].
+When we're thinking together, we're growing together. That's the central idea of this kind of [[exegesis]]. There's always more to say!
 
 [[Test link]]
 
