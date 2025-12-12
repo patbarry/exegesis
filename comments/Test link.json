@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1765498441429",
+    "content": "test note",
+    "author": "Me",
+    "visibility": "shared",
+    "timestamp": "2025-12-12T00:14:01.429Z"
+  },
+  {
+    "id": "1765498632765",
+    "content": "Contextual",
+    "quote": "",
+    "author": "Me",
+    "visibility": "shared",
+    "timestamp": "2025-12-12T00:17:12.765Z"
+  },
+  {
+    "id": "1765499445509",
+    "content": "For new note",
+    "quote": "",
+    "author": "Me",
+    "visibility": "shared",
+    "timestamp": "2025-12-12T00:30:45.509Z"
+  },
+  {
+    "id": "1765564467937",
+    "content": "New comment\n",
+    "quote": "",
+    "author": "Patrick",
+    "visibility": "shared",
+    "timestamp": "2025-12-12T18:34:27.937Z"
+  },
+  {
+    "id": "1765564492911",
+    "content": "Private note\n\n",
+    "quote": "",
+    "author": "Me",
+    "visibility": "private",
+    "timestamp": "2025-12-12T18:34:52.911Z"
+  }
+]
