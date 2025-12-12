@@ -6,7 +6,7 @@
 
 [[Something worth saying]]
 
-And then we thought some more
+And then we edited some more
 
 The times they are a'changing
 
